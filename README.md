@@ -23,3 +23,5 @@ pip3 install pytest selenium
 Запуск тестов:
 
 pytest -v
+
+Тесты запускаются в Google Chrome.
